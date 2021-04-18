@@ -1,0 +1,256 @@
+#EXTM3U url-tvg="http://ottg.tv/epg.xml.gz"
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ynk4SQ8/1plus1HD.png" tvg-id="1plus1"   ,1+1 HD
+#EXTGRP:Національні
+http://portal.ott.pink/watch/45/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/YN5mP1d/q-137.png" tvg-id="inter-ua"   ,Інтер
+#EXTGRP:Національні
+http://portal.ott.pink/watch/18/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s7.vcdn.biz/static/f/333969181/image.jpg/pt/r193x272x4" tvg-id="k1-ua"   ,K1
+#EXTGRP:Національні
+http://portal.ott.pink/watch/125/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s6.vcdn.biz/static/f/333969261/image.jpg/pt/r193x272x4" tvg-id="k2-ua"   ,K2
+#EXTGRP:Національні
+http://portal.ott.pink/watch/124/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s7.vcdn.biz/static/f/333969091/image.jpg/pt/r193x272x4" tvg-id="ntn-ua"   ,НТН
+#EXTGRP:Національні
+http://portal.ott.pink/watch/47/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/12xFbNp/TETHD.png"    ,ТЕТ HD
+#EXTGRP:Національні
+http://portal.ott.pink/watch/206/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/gthS5H6/2plus2HD.png" tvg-id="2plus2"   ,2+2 HD
+#EXTGRP:Національні
+http://portal.ott.pink/watch/46/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s7.vcdn.biz/static/f/372438511/image.jpg/pt/r193x272x4" tvg-id="mega-ua"   ,МЕГА
+#EXTGRP:Національні
+http://portal.ott.pink/watch/12/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/atr-ua.png"    ,ATR
+#EXTGRP:Національні
+http://portal.ott.pink/watch/189/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="http://epg.iptvx.one/icn/sonce.png" tvg-id="sonce-ua"   ,Сонце
+#EXTGRP:Національні
+http://portal.ott.pink/watch/237/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7psQKm2/OCEHD.png" tvg-id="otse"   ,ОЦЕ HD
+#EXTGRP:Національні
+http://portal.ott.pink/watch/186/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/kvartal-tv.png" tvg-id="kvartal-tv"   ,Квартал ТВ
+#EXTGRP:Національні
+http://portal.ott.pink/watch/123/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/ua-pershy.png"    ,UA:Перший
+#EXTGRP:Національні
+http://portal.ott.pink/watch/6972/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/YyyHk7s/TV1000-Action-HD-CEE.png" tvg-id=" tv1000-action-cee"   ,TV1000 Action CEE HD (RU/EN)
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/225/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vvTcmk7/Paramount-Comedy.png" tvg-id="paramount-comedy-ua"   ,Paramount Comedy
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/44/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Df2nPZ7/Vip-comedy-CEEHD.png" tvg-id="vip-comedy-cee"   ,VIP Comedy CEE HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/163/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/z5C0kHS/vip-megahit-CEEHD.png" tvg-id="vip-megahit-cee"   ,VIP Megahit CEE HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/173/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tsz3KNp/vip-premier-CEEHD.png" tvg-id="vip-premiere-cee"   ,VIP Premiere CEE HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/174/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Mhh9MKg/Hit-HD.png" tvg-id="khit-hd"   ,Хит HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/353/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qm9BqXF/q-12.png" tvg-id="amedia-premium"   ,Amedia Premium HD (RU/EN)
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/6976/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6Y62skM/premialnoe-HD.png" tvg-id="kinopremium-hd"   ,Премиальное HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/250/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/shokiruyushchee.png" tvg-id="kinopokaz-hd1"   ,Шокирующее HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/248/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/TwJqxng/TV1000-Worldkino.png" tvg-id="tv1000-worldkino"   ,TV1000 World Kino
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/223/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/THR8Rw5/TV1000-HD-CEE.png" tvg-id="tv1000-cee"   ,TV1000 CEE HD (RU/EN)
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/224/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/WNrhhy1/KinoMIX.png" tvg-id="kinomiks"   ,Киномикс
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/226/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/mSpQnKS/Kino-Komedia.png" tvg-id="kinokomedia"   ,Кинокомедия
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/228/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/B4Hfv0D/Kino-Svidania.png"    ,Киносвидание
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/297/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/K6xmV1G/Kino-Semya.png"    ,Киносемья
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/298/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/r4Z4vr7/KinoUgas.png" tvg-id="kinouzhas"   ,Киноужас
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/323/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ZmWmxSY/Kino-Seria.png" tvg-id="kinoseria"   ,Киносерия
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/229/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/FDzMjY7/Mugskoe-Kino.png" tvg-id="muzhskoe-kino"   ,Мужское Кино
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/227/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/F4FZ5pb/amc-1.png" tvg-id="amc"   ,AMC (UA/RU/EN)
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/15/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s4.vcdn.biz/static/f/1171697791/image.jpg/pt/r193x272x4" tvg-id="star-cinema-ua"   ,Star Cinema HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/204/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s1.vcdn.biz/static/f/1934862571/image.jpg" tvg-id="paramount-channel"   ,Paramount Channel
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/170/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s8.vcdn.biz/static/f/1687419071/image.jpg/pt/r193x272x4" tvg-id="epik-drama"   ,Epic Drama HD (RU)
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/8/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/komedijnoe.png" tvg-id="kinopokaz-hd2"   ,Комедийное HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/251/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/flixsnip.png" tvg-id="flixsnip"   ,FlixSnip HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/231/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/M8GdWZC/dorama1.jpg" tvg-id="dorama"   ,Dorama
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/140/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://sweet.tv//storage/channels/dark_theme_369.png"    ,Filmua Live HD
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/198/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/bolt.png" tvg-id="bolt"   ,Bolt
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/209/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/bigudi.png" tvg-id="bigudi"   ,Бiгудi
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/328/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s3.vcdn.biz/static/f/333969591/image.jpg/pt/r193x272x4" tvg-id="enter-film"   ,Enter Фільм
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/122/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/ntv-mir-baltia.png" tvg-id="ntv-mir-baltia"   ,НТВ-Мир Балтия
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/355/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/rentv.png" tvg-id="rentv-baltic"   ,Рен ТВ Балтия
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/354/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2SLYTRH/TV3-Film-HD.png" tvg-id="tv1000-premium"   ,TV3 Film HD (LT/LV/ES/RU)
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/326/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1      ,Hollywood HD (RU)
+#EXTGRP:Фільми та серіали
+http://portal.ott.pink/watch/165/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/0fDLFsX/q-71.png" tvg-id="24news-ua"   ,Канал 24 HD
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/324/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/ukraina24.png" tvg-id="ukraina24"   ,Україна 24 HD
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/307/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="http://epg.iptvx.one/icn/unian.png" tvg-id="unian-tv"   ,Уніaн
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/236/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/jLYxJSx/q-4.png" tvg-id="5kanal-ua"   ,5 Канал HD
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/7/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/priamyj.png" tvg-id="priamyj"   ,Прямий HD
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/14/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/espreso.png" tvg-id="espreso-tv"   ,Еспресо HD
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/10/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/pravdatut.png" tvg-id="pravdatyt"   ,Правда ТуТ
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/239/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/maxxi-tv.png" tvg-id="nash-kanal"   ,НАШ
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/17/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/kultura-ua.png" tvg-id="kultura-ua"   ,Культура
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/120/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/dozhd.png" tvg-id="dozhd"   ,Дождь HD
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/254/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://sweet.tv//storage/channels/dark_theme_248.png"    ,4 Канал HD (UA)
+#EXTGRP:Новинні
+http://portal.ott.pink/watch/6987/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s4.vcdn.biz/static/f/1075811701/image.jpg/pt/r193x272x4" tvg-id="xsport-ua"   ,XSport HD
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/210/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/shakhtar.png" tvg-id="shakhtar-tv"   ,Шахтар TV HD
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/197/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/920zWbW/Setanta-Sport-HD.png"    ,Setanta Sports+ Україна HD
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/49/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dmy8NnL/Setanta-Sport-HD.png" tvg-id="setanta-ua"   ,Setanta Sport Україна HD
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/38/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/mHWbyMV/q-38.png" tvg-id="eurosport1"   ,Eurosport 1 HD (RU/EN)
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/6971/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/fdCWw9y/q-40.png" tvg-id="eurosport2"   ,Eurosport 2 HD (RU/EN)
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/6975/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4RrwLg3/q-166.png" tvg-id="match-igra"   ,Мaтч! Игра HD
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/271/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/kJNd6jf/q-162.png" tvg-id="match-arena"   ,Мaтч! Арена HD
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/272/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/RN6B2gS/image.jpg" tvg-id="match-nash-sport"   ,Мaтч! Страна
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/273/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LYmnBKG/q-160.png" tvg-id="match-tv"   ,Мaтч! HD
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/274/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/mHWbyMV/q-38.png" tvg-id="eurosport1-ru"   ,Eurosport 1 (EN/RU)
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/128/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s6.vcdn.biz/static/f/1165694541/image.jpg/pt/r193x272x4" tvg-id="eurosport2-ru"   ,Eurosport 2 (EN/RU)
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/127/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8PDcVtm/q-107.png"    ,Viasat Sport HD
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/32/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/408/18/png-clipart-trademark-logo-brand-ufc-miscellaneous-text.png" tvg-id="ufc"   ,UFC HD
+#EXTGRP:Спортивні
+http://portal.ott.pink/watch/276/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s4.vcdn.biz/static/f/593824801/image.jpg/pt/r193x272x4" tvg-id="eu-music"   ,EU Music HD
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/126/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/music-box-ua.png" tvg-id="musicbox-ua-hd"   ,MusicBox HD
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/242/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="http://epg.iptvx.one/icn/4ever-music.png" tvg-id="4ever-music"   ,4everMusic HD
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/208/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/ce/b5/118592/1/c300.png" tvg-id="vh1-classic"   ,MTV 80s
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/329/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1a/MTV_90%27s_%282020-.n.v.%29.png/revision/latest/scale-to-width-down/340?cb=20200919214211" tvg-id="mtv-rocks"   ,MTV 90s
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/325/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/JrTG4vn/q-63.png" tvg-id="mtv-hits"   ,MTV Hits
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/346/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7zB3RMr/q-64.png" tvg-id="mtv-live-hd"   ,MTV Live HD
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/347/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/c-music-tv.png"    ,Stingray Cmusic HD
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/246/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/DGm0Mvb/Smash-House-of-Rock-HD-HEVC.png"    ,Smash House of Rock HD HEVC
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/317/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/pwg7qLF/Smash-musik.png"    ,Smash Music HD HEVC
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/316/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://s5.vcdn.biz/static/f/1163062841/image.jpg/pt/r193x272x4"    ,#НАШЕ Music HD (UA)
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/6978/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/5rJQxNd/Smash-Cam-HD.png"    ,Smash Cam HD
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/6995/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LQZjkLr/Smash-Country-HD.png"    ,Smash Country HD
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/6991/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Xb2Yf4x/Smash-Retro-HD.png"    ,Smash Retro HD
+#EXTGRP:Музичні
+http://portal.ott.pink/watch/6997/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
